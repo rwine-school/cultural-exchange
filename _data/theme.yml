@@ -8,7 +8,7 @@
 #
 # featured image is used in home page banner and in meta markup to represent the collection
 # use either an objectid (from an item in this collect), a relative location of an image in this repo (ex. /assets/img/feature.jpg), or a full url to an image elsewhere
-featured-image: assets/img/feature1.jpg
+featured-image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.rawpixel.com%2Fs3fs-private%2Frawpixel_images%2Fwebsite_content%2Fpd33-jj-00080.jpg%3Fbg%3Dtransparent%26con%3D3%26cs%3Dsrgb%26dpr%3D1%26fm%3Djpg%26ixlib%3Dphp-3.1.0%26mark%3D%26markalpha%3D90%26markpad%3D13%26markscale%3D10%26markx%3D25%26q%3D65%26usm%3D15%26vib%3D3%26w%3D1000%26s%3Dba54684ddbf16dd6781bc5e823f44357&f=1&nofb=1&ipt=2e5aaa355b164b576c47d4af951364ca178dfb0219db48388a86141b3c85a80f
 # optional: add extra padding around collection title for a larger image feature. 
 home-title-y-padding: 10em # Default is 8em
 # optional: change position of background image, center, top, bottom
