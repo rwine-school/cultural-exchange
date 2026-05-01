@@ -1,15 +1,16 @@
 field,display_name,browse_link,external_link
-title,Title,
-creator,Creator,
-date,Date Created,
-description,Description,
-subject,Subjects,true
-location,Location
-latitude,Latitude
-longitude,Longitude
-source,Source
-identifier,Source Identifier,,
-type,Type,
-format,Format,
-rights,Rights,
+title,Title
+alternative_title,Title in original language
+creator,Creator
+location,Origin
+date,Date
+influence_direction,Direction of Influence
+cultural_elements,Cultural Elements
+period_styles,Time periods and styles
+medium_technique,The Medium and Technique
+description,Description
+significance,Significance
+related_works,Related Works
+source,Holding Institution
+identifier,Source Identifier
 rightsstatement,Rights Statement,,true
