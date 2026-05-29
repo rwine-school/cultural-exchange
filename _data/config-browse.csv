@@ -1,6 +1,6 @@
 field,display_name,btn,hidden,sort_name
-title,Title
-alternative_title,Title in original language
+title,Title,,true
+alternative_title,Title in original language,,true
 creator,Creator
 location,Origin
 date,Date
